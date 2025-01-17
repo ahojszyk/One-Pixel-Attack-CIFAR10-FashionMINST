@@ -21,14 +21,6 @@ This repository implements the **One Pixel Attack** on two popular image classif
 
 To run the notebooks and code, you will need the following Python packages. You can install them using the provided `requirements.txt` file:
 
-- **TensorFlow** (2.17.1)
-- **Numpy** (1.26.4)
-- **Keras** (3.5.0)
-- **Seaborn** (0.13.2)
-- **Pandas** (2.2.2)
-- **Scikit-learn** (1.6.0)
-- **Matplotlib** (3.8.0)
-
 To install the dependencies, run:
 
 ```bash
